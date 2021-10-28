@@ -1,10 +1,12 @@
+<img height='650em'  src="https://miro.medium.com/max/724/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+
+
 # Hi there!!
 
 <div>
   <div display="flex">
     <h3>This github is where I post my evolution in programming,</br> Here you will see repositories very simple, because somethings</br> is just my testing</p>
     <div align='end'>
-      <img height='100em'  src="https://miro.medium.com/max/724/1*IRGHmiGsa16stedQvIaZfw.gif"/>
     </div>
     
   </div>
