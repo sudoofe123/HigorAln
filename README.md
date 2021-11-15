@@ -11,7 +11,7 @@
   
 <p font-size='20px' >This is my evoluction</p>
  
-## ⚔ Principais Tecnologias
+## ⚔ Main Technologies
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Higor-Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
