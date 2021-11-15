@@ -9,8 +9,6 @@
 </div>
   
   
-<p font-size='20px' >This is my evoluction</p>
- 
 ## ⚔ Main Technologies
 
   <div style="display: inline_block"><br>
@@ -33,13 +31,6 @@
   <img align="center" alt="Higor-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Higor-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="Higor-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  
-
-
-
-
-
-
 </div><br/>
   
   <div> 
