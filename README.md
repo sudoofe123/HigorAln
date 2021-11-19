@@ -9,7 +9,7 @@
 </div>
   
   
-## ⚔ Main Technologies
+## ⚔ explored technologies
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Higor-Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
